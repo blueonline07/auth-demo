@@ -57,6 +57,7 @@ class GoogleLogin(GenericAPIView):
             'refresh': str(refresh),
             'access': str(access),
         }
+
         serializer = TokenSerializer(data=data)
         serializer.is_valid(raise_exception=True)
         json = JSONRenderer().render(serializer.data)
