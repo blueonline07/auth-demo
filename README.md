@@ -1,1 +1,1 @@
-hi
+![diagram](./testDiagram.drawio.png)
