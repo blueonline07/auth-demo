@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="5hh5KHy4vYde5BKXPjIa">
-    <mxGraphModel dx="2336" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="2134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -795,17 +795,6 @@
         <mxCell id="Oz_xGIL1q-XDC8DIrNOm-73" value="THANH TOÁN" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-440" y="242.5" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Oz_xGIL1q-XDC8DIrNOm-74" value="" style="shape=link;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Oz_xGIL1q-XDC8DIrNOm-73" target="_ZcJm6ZcUghAxAI16LKx-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-340" y="330" as="sourcePoint" />
-            <mxPoint x="-180" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Oz_xGIL1q-XDC8DIrNOm-75" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="Oz_xGIL1q-XDC8DIrNOm-74" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-11" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Oz_xGIL1q-XDC8DIrNOm-76" value="" style="shape=link;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Oz_xGIL1q-XDC8DIrNOm-73" target="Oz_xGIL1q-XDC8DIrNOm-57" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-484" y="266.25" as="sourcePoint" />
@@ -901,6 +890,15 @@
             <mxPoint x="-140" y="630" as="sourcePoint" />
             <mxPoint x="20" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eqpyEmmj_8BoCR7edXYe-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oz_xGIL1q-XDC8DIrNOm-73" target="_ZcJm6ZcUghAxAI16LKx-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="520" as="sourcePoint" />
+            <mxPoint x="250" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqpyEmmj_8BoCR7edXYe-8" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="eqpyEmmj_8BoCR7edXYe-7">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
