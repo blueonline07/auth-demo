@@ -25,10 +25,10 @@
           <mxGeometry x="82.5" y="180" width="105" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HvDZoCOBo5xw8-uhOks7-9" value="SPSO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="320" width="30" height="60" as="geometry" />
+          <mxGeometry x="610" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HvDZoCOBo5xw8-uhOks7-13" value="Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="620" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HvDZoCOBo5xw8-uhOks7-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="HvDZoCOBo5xw8-uhOks7-1" target="HvDZoCOBo5xw8-uhOks7-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -70,6 +70,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="538" as="sourcePoint" />
             <mxPoint x="417" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvDZoCOBo5xw8-uhOks7-23" value="BKPay" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="585" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HvDZoCOBo5xw8-uhOks7-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="HvDZoCOBo5xw8-uhOks7-5" target="HvDZoCOBo5xw8-uhOks7-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449" y="543" as="sourcePoint" />
+            <mxPoint x="640" y="596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
