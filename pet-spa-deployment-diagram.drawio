@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WG5gfJBIS_Pp4yApW_4x-45" value="«component»&lt;br&gt;&lt;b&gt;Services&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="WG5gfJBIS_Pp4yApW_4x-23">
-          <mxGeometry x="60" y="265.59" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WG5gfJBIS_Pp4yApW_4x-46" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="WG5gfJBIS_Pp4yApW_4x-45">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WG5gfJBIS_Pp4yApW_4x-47" value="«component»&lt;br&gt;&lt;b&gt;Models&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="WG5gfJBIS_Pp4yApW_4x-23">
-          <mxGeometry x="60" y="355.59" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WG5gfJBIS_Pp4yApW_4x-48" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="WG5gfJBIS_Pp4yApW_4x-47">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -55,10 +55,10 @@
           <mxGeometry x="250" y="179.41" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WG5gfJBIS_Pp4yApW_4x-50" value="«artifact»&lt;br&gt;&lt;b&gt;views.py&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="WG5gfJBIS_Pp4yApW_4x-23">
-          <mxGeometry x="250" y="270.59" width="120" height="50" as="geometry" />
+          <mxGeometry x="250" y="295" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WG5gfJBIS_Pp4yApW_4x-51" value="«artifact»&lt;br&gt;&lt;b&gt;model.py&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="WG5gfJBIS_Pp4yApW_4x-23">
-          <mxGeometry x="250" y="365.59" width="120" height="50" as="geometry" />
+          <mxGeometry x="250" y="410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WG5gfJBIS_Pp4yApW_4x-52" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="WG5gfJBIS_Pp4yApW_4x-23" source="WG5gfJBIS_Pp4yApW_4x-49" target="WG5gfJBIS_Pp4yApW_4x-43">
           <mxGeometry width="160" relative="1" as="geometry">
