@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.8.3">
   <diagram name="Trang-1" id="R7QnyIHVJCvonXuovxj-">
-    <mxGraphModel dx="1926" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2633" dy="2095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,20 +139,20 @@
             <mxPoint x="600" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BREXki8vrTVY7rMbNAXE-52" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;" parent="1" source="BREXki8vrTVY7rMbNAXE-30" target="BREXki8vrTVY7rMbNAXE-18" edge="1">
+        <mxCell id="BREXki8vrTVY7rMbNAXE-52" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;" parent="1" source="BREXki8vrTVY7rMbNAXE-18" target="BREXki8vrTVY7rMbNAXE-30" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="480" y="580" as="sourcePoint" />
-            <mxPoint x="640" y="580" as="targetPoint" />
+            <mxPoint x="620" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SwU_xEo3G6D-vkzYV19e-5" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BREXki8vrTVY7rMbNAXE-52" vertex="1" connectable="0">
           <mxGeometry x="0.7732" y="2" relative="1" as="geometry">
-            <mxPoint x="-11" y="7" as="offset" />
+            <mxPoint x="-184" y="-143" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SwU_xEo3G6D-vkzYV19e-6" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BREXki8vrTVY7rMbNAXE-52" vertex="1" connectable="0">
           <mxGeometry x="-0.8809" y="1" relative="1" as="geometry">
-            <mxPoint y="18" as="offset" />
+            <mxPoint x="183" y="147" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BREXki8vrTVY7rMbNAXE-53" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;" parent="1" source="BREXki8vrTVY7rMbNAXE-34" target="BREXki8vrTVY7rMbNAXE-18" edge="1">
@@ -307,7 +307,7 @@
             <mxPoint x="600" y="450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1000" y="50" />
-              <mxPoint x="1000" y="850" />
+              <mxPoint x="1000" y="856" />
             </Array>
           </mxGeometry>
         </mxCell>
