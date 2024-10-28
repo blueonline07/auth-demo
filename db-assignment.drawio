@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.8.3">
   <diagram name="Page-1" id="5hh5KHy4vYde5BKXPjIa">
-    <mxGraphModel dx="2063" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2295" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -982,16 +982,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mN0_F1xF7nBiW_6uNfuk-66" value="1 goi hang = can nang * tien 1g + quang duong * tien 1km + &amp;nbsp;phi phuc vu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-170" width="410" height="30" as="geometry" />
+          <mxGeometry x="660" y="-160" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mN0_F1xF7nBiW_6uNfuk-67" value="phi phuc vu = tong phi phuc vu cua các nhan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-220" width="260" height="30" as="geometry" />
+          <mxGeometry x="675" y="-220" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mN0_F1xF7nBiW_6uNfuk-68" value="binh hoa 5kg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="-262" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mN0_F1xF7nBiW_6uNfuk-69" value="laptop 2 kg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="-220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mN0_F1xF7nBiW_6uNfuk-70" value="gia = tong tien cac goi hang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-110" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
