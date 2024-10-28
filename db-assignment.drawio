@@ -985,7 +985,7 @@
           <mxGeometry x="560" y="-170" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mN0_F1xF7nBiW_6uNfuk-67" value="phi phuc vu = tong phi phuc vu cua các nhan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-210" width="260" height="30" as="geometry" />
+          <mxGeometry x="650" y="-220" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mN0_F1xF7nBiW_6uNfuk-68" value="binh hoa 5kg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="-262" width="90" height="30" as="geometry" />
