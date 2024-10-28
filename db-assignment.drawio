@@ -981,6 +981,18 @@
             <mxPoint x="795" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mN0_F1xF7nBiW_6uNfuk-66" value="1 goi hang = can nang * quang đường * tien 1g + &amp;nbsp;phi phuc vu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-170" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mN0_F1xF7nBiW_6uNfuk-67" value="phi phuc vu = tong phi phuc vu cua các nhan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-210" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mN0_F1xF7nBiW_6uNfuk-68" value="binh hoa 5kg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="-262" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mN0_F1xF7nBiW_6uNfuk-69" value="laptop 2 kg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="-220" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
