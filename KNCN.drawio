@@ -41,13 +41,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ID0NeeCBldtAVDiVeWfg-10" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="ID0NeeCBldtAVDiVeWfg-11">
-          <mxGeometry y="20" relative="1" as="geometry">
+          <mxGeometry x="0.0007" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="430" y="156" as="sourcePoint" />
             <mxPoint x="640" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ID0NeeCBldtAVDiVeWfg-11" value="Check control logic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ID0NeeCBldtAVDiVeWfg-11" value="Check traffic&amp;nbsp;&lt;div&gt;control logic&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ID0NeeCBldtAVDiVeWfg-12" value="Should&amp;nbsp;&lt;div&gt;the lights&amp;nbsp;&lt;/div&gt;&lt;div&gt;change ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
